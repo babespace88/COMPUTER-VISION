@@ -13,7 +13,7 @@
 # Image Matching 
 
 
-1. Image Matching 2025 ( 3D Model ) - https://github.com/babespace88/Image-Matching-25-OpenCV
+1. Image Matching 2025 - https://github.com/babespace88/Image-Matching-25-OpenCV
 
 2. Image Matching 2024 - https://github.com/babespace88/Image-Matching-24-OpenCV
 
